@@ -82,24 +82,24 @@ This project follows **real-world ERP logic** used by colleges and educational i
 
 **Roll-Based-Access**
 
-[!Roll-Based-Access](./screenshots/Roll-Based-Access.png)
+![Roll-Based-Access](./screenshots/Roll-Based-Access.png)
 
 **Admin-Dashboard**
 
-[!Admin-Dashboard](./screenshots/Admin-Dashboard.png)
+![Admin-Dashboard](./screenshots/Admin-Dashboard.png)
  
-***Add-Teacher*
+**Add-Teacher**
 
-[!Add-Teacher](./screenshots/Add-Teacher.png)
+![Add-Teacher](./screenshots/Add-Teacher.png)
 
-***Add-Student**
+**Add-Student**
 
-[!Add-Student](./screenshots/Add-Student.png)
+![Add-Student](./screenshots/Add-Student.png)
 
 **Notices**
 
-[!Notices](./screenshots/Roll-Based-Access.png)
+![Notices](./screenshots/Roll-Based-Access.png)
 
 **Fees Management**
 
-[Fees-Management](./screenshots/Fees-Management.png)
+![Fees-Management](./screenshots/Fees-Management.png)
